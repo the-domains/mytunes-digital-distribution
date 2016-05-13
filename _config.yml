@@ -1,0 +1,28 @@
+name: myTunes Digital Distribution
+favicon: null
+layout_spectrum: 0.5432259235531092
+typography_spectrum: 0.29024744569323957
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13025455339811742
+  lightness: 0.46974733122624457
+  saturation: 0.48087589046917856
+  rhythmicContrast: 0.133808727376163
+purpose: []
