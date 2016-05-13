@@ -2,6 +2,7 @@ name: myTunes Digital Distribution
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.29024744569323957
+title: 'myTunes Digital Distribution '
 cta:
   domain: null
   bucket: null
