@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[myTunes Digital Distribution ]]></title>
+        <description><![CDATA[myTunes Digital Distribution ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 May 2016 10:33:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[myTunes Digital Distribution]]></title>
+            <description><![CDATA[<article><h1>myTunes Digital Distribution</h1><p>myTunes Digital Services Reveal. Available now. Call to inquire. #844MYTUNES or email us at info@mytunesdigital.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2831387816fd168a20c2f15323d6412f48343223.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=6r5ZUs7zt8s</link>
+            <guid isPermaLink="false">61273bab-6abf-4d1f-abd0-d13306c55c2b</guid>
+            <pubDate>Fri, 13 May 2016 10:33:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
